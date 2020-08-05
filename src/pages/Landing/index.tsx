@@ -16,8 +16,8 @@ function Landing() {
                     <img src={logoImg} alt="Proffy"/>
                     <h2>Sua plataforma de estudos online.</h2>
                 </div>
-                <img src={landingImg} alt="pla estudos" className="hero-img"/>
-                <div className="button-container">
+                <img src={landingImg} alt="pla estudos" className="hero-image"/>
+                <div className="buttons-container">
                     <a href="" className="study">
                         <img src={studyIcon} alt="study"/>
                         Estudar
