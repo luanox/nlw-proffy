@@ -1,4 +1,4 @@
-# GoFinances
+# Proffy
 
 ![Farmers Market Finder Demo](https://uploaddeimagens.com.br/images/002/816/405/full/Screen_Shot_2020-08-06_at_19.31.49.png?1596753221)
 
